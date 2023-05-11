@@ -1,0 +1,14 @@
+jiwer==2.5.1
+librosa
+numpy
+pandas
+pystoi==0.3.3
+scipy
+soundfile==0.10.3.post1
+torch
+transformers==4.25.1
+tqdm==4.64.1
+kaggle==1.5.12
+torchvision==0.14.1
+pillow==9.4.0
+wandb==0.13.9
