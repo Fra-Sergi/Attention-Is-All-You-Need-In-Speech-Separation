@@ -37,12 +37,12 @@ if __name__ == "__main__":
 
     parser.add_argument('--in-dir',
                         type=str,
-                        default="./min",
+                        default="/content/gdrive/MyDrive/project_folder/Attention-Is-All-You-Need-In-Speech-Separation/DATASETS/min",
                         help='Directory path of wsj0 including tr, cv and tt')
 
     parser.add_argument('--out-dir',
                         type=str,
-                        default="./json/",
+                        default="/content/gdrive/MyDrive/project_folder/Attention-Is-All-You-Need-In-Speech-Separation/DATASETS/json/",
                         help='Directory path to put output files')
 
     parser.add_argument('--sample-rate',
